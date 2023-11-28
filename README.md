@@ -1,2 +1,2 @@
 # Crude-operation
-Upload information,Edite .Delete
+Upload photos and information,Edite .Delete
